@@ -1,0 +1,13 @@
+#cafeimg{
+    width: 280px;
+    max-height: 150px;
+    
+}
+
+#menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
